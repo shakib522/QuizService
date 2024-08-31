@@ -7,6 +7,9 @@ This repository contains the `quiz-service`, a microservice that handles the man
 The `quiz-service` is responsible for creating, updating, retrieving, and deleting quizzes. It communicates with the `question-service` using OpenFeign for fetching questions associated with quizzes. The service is registered with Eureka Server for service discovery and uses Spring Data JPA for database operations with PostgreSQL.
 
 ## Other Repository
+- Service Registry : https://github.com/shakib522/Service-Registry
+- Question Service : https://github.com/shakib522/Question-Service
+- API Gateway: https://github.com/shakib522/Api-Getway
 
 
 ## Postman API Collection
